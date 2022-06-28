@@ -1,18 +1,21 @@
 {
 "errors": [
   {
+    "id" : 10040,
     "errorcode" : "10040",
     "errormsg" : "A snapshot policy is required for stream_snap policy",
     "workaround" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl orci, maximus id faucibus interdum",
     "fixdate" : "15/07/2022"
   },
   {
+    "id" : 10041
     "errorcode" : "10041",
     "errormsg" : "Lorem ipsum dolor sit amet",
     "workaround" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl orci, maximus id faucibus interdum",
     "fixdate" : "16/07/2022"
   },
   {
+    "id" : 10042,
     "errorcode" : "10042",
     "errormsg" : "diam lectus blandit velit, at semper lorem nibh in leo",
     "workaround" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl orci, maximus id faucibus interdum",
