@@ -4,7 +4,7 @@
     "id" : 10040,
     "errorcode" : "10040",
     "errormsg" : "A snapshot policy is required for stream_snap policy",
-    "workaround" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl orci, maximus id faucibus interdum",
+    "workaround" : "Currently, it is not allowed to create the mirror (stream snap) policy without first creating the snapshot policy, however when a direct to onvault policy is added to the template, an add button for the mirror policy is enabled",
     "fixdate" : "15/07/2022"
   },
   {
