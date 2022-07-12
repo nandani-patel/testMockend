@@ -9,7 +9,7 @@
   },
   {
     "id" : 10041,
-    "errorcode" : "10041",
+    "errorcode" : "10011",
     "errormsg" : "Lorem ipsum dolor sit amet",
     "workaround" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl orci, maximus id faucibus interdum",
     "fixdate" : "16/07/2022"
